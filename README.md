@@ -70,3 +70,11 @@ The most frequently employed containment strategies and their association with m
 - Antibiotics similarly show high breakthrough association (83%).
 - In contrast, strategies like Sanitation (4 events) and Natural Decline (6 events) show 0% and 17% breakthrough association respectively.
 - Isolation-based containment achieves 100% breakthrough linkage in 3 events, suggesting targeted isolation combined with research yields rapid medical advances.
+
+7. Economic Impact
+![](fig8.png)
+The financial cost of pandemics has escalated dramatically in the modern era
+
+- COVID-19's economic impact of $13,800 billion dwarfs all historical precedents, being nearly 2.8 times the combined impact of the next three most costly events (Asian Flu $5,000B, Hong Kong Flu $4,000B, Spanish Flu $2,500B).
+- The difference reflects not only greater global economic integration but also the extensive non-pharmaceutical interventions.
+- Ancient and Medieval events, while devastating in human terms, show lower economic impact figures.
