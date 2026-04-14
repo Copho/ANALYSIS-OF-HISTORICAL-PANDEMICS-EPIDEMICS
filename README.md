@@ -40,3 +40,14 @@ Despite their similar frequencies, their impact profiles differ:
 - Unknown pathogens: Highest average CFR at 33.35%, reflecting events where no specific organism was ever conclusively identified.
 
 60% of all events (30 out of 50) were associated with a medical breakthrough.
+
+4. Case Fatality Rates Across Eras
+![](fig5.png)
+One of the most compelling trends in the dataset is the decline in average CFR over historical eras.
+
+The data reveals a clear long-term improvement in human survival outcomes;
+- Early Modern era events recorded the highest average CFR (51.35%).
+- The Industrial era (28.18%).
+- The Modern era (11.07%) and Contemporary era (14.22%)
+
+This reflect gradual improvement despite a slight uptick in Contemporary CFR.
