@@ -17,8 +17,9 @@ Using this historical dataset of pandemic events, the analysis addresses the fol
 
 ## INSIGHTS
 1. Scale of Human Impact
-Across the 50 events in the dataset, the cumulative estimated toll is staggering:
-•	Total estimated deaths: 286,032,209 (approximately 286 million)
-•	Total estimated cases: 7,413,707,054 (approximately 7.4 billion case-events)
-•	The overall average case fatality rate across all events stands at 22.55%, though this figure is skewed by pre-modern catastrophes.
-•	The six events classified as 'Catastrophic' in mortality scale — Black Death, Smallpox in the Americas, Spanish Flu, HIV/AIDS, Plague of Justinian, and Second Pandemic Plague — account for the majority of all recorded deaths.
+![](fig2.png)
+   Across the 50 events in the dataset, the cumulative estimated toll is staggering:
+- Total estimated deaths: 286,032,209 (approximately 286 million)
+-	Total estimated cases: 7,413,707,054 (approximately 7.4 billion case-events)
+-	The overall average case fatality rate across all events stands at 22.55%.
+
