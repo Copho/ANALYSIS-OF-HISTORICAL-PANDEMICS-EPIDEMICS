@@ -51,3 +51,13 @@ The data reveals a clear long-term improvement in human survival outcomes;
 - The Modern era (11.07%) and Contemporary era (14.22%)
 
 This reflect gradual improvement despite a slight uptick in Contemporary CFR.
+
+5. WHO Classification & Spread
+![](fig6.png)
+The 50 events are distributed across WHO classifications as follows:
+- Pandemic: 21 events (42%) — global or near-global reach
+- Epidemic: 20 events (40%) — significant regional or continental spread
+- Outbreak: 6 events (12%) — localized high-impact events
+- Endemic: 3 events (6%) — persistent low-level disease burden (Dengue, Polio, Rocky Mountain Spotted Fever).
+
+Geographic spread analysis shows that Global-spread events (18 events, 36%) produce substantially higher average mortality (10.2 million deaths per event) compared to non-global events, confirming that geographic reach is a key amplifier of total mortality.
