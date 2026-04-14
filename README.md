@@ -29,3 +29,12 @@ This table ranks the most lethal pandemic events by estimated deaths.
 - The Black Death remains the single deadliest event in the dataset with 75 million deaths.
 - Smallpox in the Americas records the highest CFR at 93.3%, reflecting its devastating impact.
 - Notably, COVID-19 — despite a relatively low CFR of 1.0% — ranks 7th.
+
+3. Pathogen Type Analysis
+![](fig4.png)
+Viruses are slightly more prevalent (52%, 26 events) than bacteria (44%, 22 events), with 2 events classified as unknown pathogens.
+Despite their similar frequencies, their impact profiles differ:
+- Bacterial pathogens: Average CFR of 22.55%.
+- Viral pathogens: Average CFR of 21.72%.
+- Unknown pathogens: Highest average CFR at 33.35%, reflecting events where no specific organism was ever conclusively identified.
+60% of all events (30 out of 50) were associated with a medical breakthrough.
