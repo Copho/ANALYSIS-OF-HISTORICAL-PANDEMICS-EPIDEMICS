@@ -20,6 +20,12 @@ Using this historical dataset of pandemic events, the analysis addresses the fol
 ![](fig2.png)
    Across the 50 events in the dataset, the cumulative estimated toll is staggering:
 - Total estimated deaths: 286,032,209 (approximately 286 million)
--	Total estimated cases: 7,413,707,054 (approximately 7.4 billion case-events)
--	The overall average case fatality rate across all events stands at 22.55%.
+- Total estimated cases: 7,413,707,054 (approximately 7.4 billion case-events)
+- The overall average case fatality rate across all events stands at 22.55%.
 
+2. Top 10 Deadliest Events
+![](fig3.png)
+This table ranks the most lethal pandemic events by estimated deaths.
+- The Black Death remains the single deadliest event in the dataset with 75 million deaths.
+- Smallpox in the Americas records the highest CFR at 93.3%, reflecting its devastating impact.
+- Notably, COVID-19 — despite a relatively low CFR of 1.0% — ranks 7th.
