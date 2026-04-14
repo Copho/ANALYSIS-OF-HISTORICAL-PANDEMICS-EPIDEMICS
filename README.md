@@ -5,3 +5,12 @@ This report analyzes a historical dataset of 50 documented pandemics, epidemics,
 ## ABOUT THE DATASET
 The [dataset](https://drive.google.com/file/d/1YM2af5YHrEZUfQgurKVboGcqlbHDUgyK/view?usp=drivesdk) contains 50 records with the key columns as described in the figure below;
 ![](fig1.png)
+
+## PROBLEM STATEMENT
+Using this historical dataset of pandemic events, the analysis addresses the following questions:
+-	What are the deadliest pandemics in recorded history, and what factors drove their high mortality?
+-	How have case fatality rates (CFR) changed across historical eras as medicine and public health advanced?
+-	Which pathogens (viral vs. bacterial) have posed the greatest global threat?
+-	What containment strategies have been most effective, and how does medical innovation correlate with outcomes?
+-	What is the economic cost of pandemics, and which events have been most financially devastating?
+-	How do geographic spread and transmission routes relate to overall mortality?
