@@ -61,3 +61,12 @@ The 50 events are distributed across WHO classifications as follows:
 - Endemic: 3 events (6%) — persistent low-level disease burden (Dengue, Polio, Rocky Mountain Spotted Fever).
 
 Geographic spread analysis shows that Global-spread events (18 events, 36%) produce substantially higher average mortality (10.2 million deaths per event) compared to non-global events, confirming that geographic reach is a key amplifier of total mortality.
+
+6. Containment Methods & Medical Breakthroughs
+![](fig7.png)
+The most frequently employed containment strategies and their association with medical breakthroughs are detailed in the figure above.
+
+- Vaccine-based containment is both the most common modern strategy (10 events) and one of the most closely linked to medical breakthroughs (90%).
+- Antibiotics similarly show high breakthrough association (83%).
+- In contrast, strategies like Sanitation (4 events) and Natural Decline (6 events) show 0% and 17% breakthrough association respectively.
+- Isolation-based containment achieves 100% breakthrough linkage in 3 events, suggesting targeted isolation combined with research yields rapid medical advances.
