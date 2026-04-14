@@ -33,8 +33,10 @@ This table ranks the most lethal pandemic events by estimated deaths.
 3. Pathogen Type Analysis
 ![](fig4.png)
 Viruses are slightly more prevalent (52%, 26 events) than bacteria (44%, 22 events), with 2 events classified as unknown pathogens.
+
 Despite their similar frequencies, their impact profiles differ:
 - Bacterial pathogens: Average CFR of 22.55%.
 - Viral pathogens: Average CFR of 21.72%.
 - Unknown pathogens: Highest average CFR at 33.35%, reflecting events where no specific organism was ever conclusively identified.
+
 60% of all events (30 out of 50) were associated with a medical breakthrough.
